@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cinder>
+<block
+	name="bUtil"
+	id="org.b_ndsh_h.bUtil"
+	author="Jan Bundschuh"
+	license="MIT"
+	summary="Implements some amazin' stuff. Newest Version!"
+	core="true"
+	>
+	<requires>org.cinder.sdfText</requires>
+	<headerPattern>src/*.h</headerPattern>
+	<sourcePattern>src/*.cpp</sourcePattern>
+	<headerPattern>src/ui/*.h</headerPattern>
+	<sourcePattern>src/ui/*.cpp</sourcePattern>
+	<includePath>src</includePath>
+	<includePath>src/ui</includePath>
+	
+</block>
+</cinder>

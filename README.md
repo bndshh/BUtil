@@ -1,4 +1,4 @@
 Cinder-bUtil
 ===============
-Some small Helper to implement GUIs in Cinder.
+Some small helpers to implement GUIs in Cinder.
 Needs Cinder >= v0.9.0
